@@ -6,7 +6,7 @@
 
 <div align="">
   <a href="https://github.com/Noeliacj/Noeliacj.github.io.git">
-    <img src=""
+    <img src="blog_noelia.jpg"
     width="600"
     alt="Link to Blog">
   </a>
