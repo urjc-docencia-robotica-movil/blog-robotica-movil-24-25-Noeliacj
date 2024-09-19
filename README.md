@@ -4,6 +4,8 @@
 
 -----------
 
+Click on the photo to see the blog:
+
 <div align="">
   <a href="https://github.com/Noeliacj/Noeliacj.github.io.git">
     <img src="blog_noelia.jpg"
@@ -11,3 +13,7 @@
     alt="Link to Blog">
   </a>
 </div>
+
+-----------
+
+Link: https://github.com/Noeliacj/Noeliacj.github.io.git
